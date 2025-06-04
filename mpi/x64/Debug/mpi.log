@@ -1,0 +1,6 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (mpi.c.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  mpi.c
+C:\Users\anoni\OneDrive\Pulpit\PRiR projekt\sekwencyjny\mpi\mpi.c(33,16): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\anoni\OneDrive\Pulpit\PRiR projekt\sekwencyjny\mpi\mpi.c(39,13): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\anoni\OneDrive\Pulpit\PRiR projekt\sekwencyjny\mpi\mpi.c(74,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  mpi.vcxproj -> C:\Users\anoni\OneDrive\Pulpit\PRiR projekt\sekwencyjny\x64\Debug\mpi.exe
